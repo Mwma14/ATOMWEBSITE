@@ -1,0 +1,15 @@
+
+aiosqlite
+colorlog
+python-telegram-bot
+flask
+telegram
+aiosqlite
+colorlog
+flask
+python-telegram-bot
+aiosqlite
+colorlog
+flask
+python-telegram-bot
+telegram
